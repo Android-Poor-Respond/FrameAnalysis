@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.testing.uiautomator.BasicSample.test"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:8:5-10:41
+8        android:minSdkVersion="18"
+8-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:9:9-35
+9        android:targetSdkVersion="28" />
+9-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:10:9-38
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:12:5-81
+11-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:12:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:13:5-80
+12-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:13:22-77
+13
+14    <instrumentation
+14-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:15:5-20:87
+15        android:name="androidx.test.runner.AndroidJUnitRunner"
+15-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:16:9-63
+16        android:functionalTest="false"
+16-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:17:9-39
+17        android:handleProfiling="false"
+17-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:18:9-40
+18        android:label="Tests for com.example.android.testing.uiautomator.BasicSample"
+18-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:19:9-86
+19        android:targetPackage="com.example.android.testing.uiautomator.BasicSample" />
+19-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:20:9-84
+20
+21    <uses-permission android:name="android.permission.REORDER_TASKS" />
+21-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:24:5-72
+21-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:24:22-69
+22
+23    <application
+23-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:22:5-27:19
+24        android:debuggable="true"
+24-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:23:9-34
+25        android:label="BasicSampleTest" >
+25-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:24:9-40
+26        <uses-library android:name="android.test.runner" />
+26-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:26:9-60
+26-->/home/yoda/Dropbox/FrameAnalysis/FrameBenchMark/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3309267899112112932.xml:26:23-57
+27
+28        <activity
+28-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:27:9-33:20
+29            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+29-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:28:13-99
+30            android:theme="@android:style/Theme" >
+30-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:29:13-49
+31            <intent-filter>
+31-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:30:13-32:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:17-69
+32-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:25-66
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:34:9-40:20
+36            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+36-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:35:13-95
+37            android:theme="@android:style/Theme" >
+37-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:36:13-49
+38            <intent-filter>
+38-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:30:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:17-69
+39-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:25-66
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:41:9-47:20
+43            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+43-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:42:13-103
+44            android:theme="@android:style/Theme.Dialog" >
+44-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:43:13-56
+45            <intent-filter>
+45-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:30:13-32:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:17-69
+46-->[androidx.test:core:1.3.0-alpha04] /home/yoda/.gradle/caches/transforms-2/files-2.1/bd21c51e128cf9a5bb887908893e765b/core-1.3.0-alpha04/AndroidManifest.xml:31:25-66
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>

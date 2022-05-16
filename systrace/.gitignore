@@ -1,0 +1,6 @@
+data/
+venv/
+traces/
+.idea/
+APKs/
+*.apk
